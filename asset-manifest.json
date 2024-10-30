@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/carlarjhonminor27@gmail.com/static/css/main.30e4bbca.css",
-    "main.js": "/carlarjhonminor27@gmail.com/static/js/main.83b2ac11.js",
-    "static/js/453.a43ddb2c.chunk.js": "/carlarjhonminor27@gmail.com/static/js/453.a43ddb2c.chunk.js",
-    "index.html": "/carlarjhonminor27@gmail.com/index.html",
-    "main.30e4bbca.css.map": "/carlarjhonminor27@gmail.com/static/css/main.30e4bbca.css.map",
-    "main.83b2ac11.js.map": "/carlarjhonminor27@gmail.com/static/js/main.83b2ac11.js.map",
-    "453.a43ddb2c.chunk.js.map": "/carlarjhonminor27@gmail.com/static/js/453.a43ddb2c.chunk.js.map"
+    "main.css": "/Carl/static/css/main.30e4bbca.css",
+    "main.js": "/Carl/static/js/main.ec9dde4d.js",
+    "static/js/453.a43ddb2c.chunk.js": "/Carl/static/js/453.a43ddb2c.chunk.js",
+    "index.html": "/Carl/index.html",
+    "main.30e4bbca.css.map": "/Carl/static/css/main.30e4bbca.css.map",
+    "main.ec9dde4d.js.map": "/Carl/static/js/main.ec9dde4d.js.map",
+    "453.a43ddb2c.chunk.js.map": "/Carl/static/js/453.a43ddb2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30e4bbca.css",
-    "static/js/main.83b2ac11.js"
+    "static/js/main.ec9dde4d.js"
   ]
 }
